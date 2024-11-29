@@ -23,6 +23,8 @@ Functions & Software Modes:
 Supply voltage: 
 	9V battery?
 	or 2-4x 3.7V Li-ion rechargeable cells?
+	standard 12V DC jack
+	This version will NOT include a full-bridge rectifier for AC charging/power
 
 Visual Displays and Indicators:
 	1.8'' TFT LCD display (I2C)
