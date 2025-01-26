@@ -33,5 +33,5 @@ Visual Displays and Indicators:
 	1x 5mm LED to indicate power ON.
 
 Controls:
-	4x cherry-mx keyswitches (3x??? - maybe make A/B just one?)
+	4x cherry-mx keyswitches
 	standard power switch
