@@ -12,8 +12,7 @@ Functions & Software Modes:
 	Toggle time 7-seg disp. by displaying no digits (mode, A/B key)
 	"off-mode" of LCD display (just a mode, makes LCD LED pin switch by p-MOS)
 	QMC5883L Compass Mode shows current heading (mode, A/B keys change inclination temporarily, but that is not saved)
-	Resistance Measuring Mode!!! color bands as rectangles on LCD (mode, A/B shows raw/E12)
-	ADC multimeter/crude oscilloscope - voltmeter (and ammeter???) (mode)
+	ADC voltmeter/osc-scope (mode)
 	(?? SD-card reading must be used) Cat Picture Mode cycle through pics on SD card (mode, A/B change pic)
 	Torch Mode (A/B key inc/dec brightness in 3 steps, auto turn off on mode change)
 
@@ -32,6 +31,7 @@ Controls:
 	standard power switch
 
 === Mk III+ Possible Features ===
+Resistance Measuring Mode!!! color bands as rectangles on LCD (mode, A/B shows raw/E12)
 Digitally-tuned radio receiver?
 Mains AC power in (dangerous???)
 Li-Ion cells charging circuit and 12V DC cable power in.
