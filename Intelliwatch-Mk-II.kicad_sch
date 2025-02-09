@@ -15445,7 +15445,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2897"
 			(at 38.1 214.63 0)
 			(effects
 				(font
@@ -15559,7 +15559,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "n/a"
 			(at 58.42 59.69 0)
 			(effects
 				(font
@@ -15637,7 +15637,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C5200509"
 			(at 35.56 165.1 0)
 			(effects
 				(font
@@ -16219,7 +16219,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "n/a"
 			(at 134.62 41.91 0)
 			(effects
 				(font
@@ -16518,7 +16518,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C479076"
 			(at 100.33 35.56 0)
 			(effects
 				(font
@@ -17006,7 +17006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 126.6952 38.1 0)
 			(effects
 				(font
@@ -17033,7 +17033,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C882552"
 			(at 125.73 34.29 0)
 			(effects
 				(font
@@ -17058,7 +17058,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 139.7 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17084,8 +17084,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 139.7 41.91 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 140.6652 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17102,7 +17102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 139.7 41.91 0)
 			(effects
 				(font
@@ -17111,7 +17111,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C440198"
 			(at 139.7 41.91 0)
 			(effects
 				(font
@@ -17152,7 +17152,7 @@
 				)
 			)
 		)
-		(property "Value" "0.22u"
+		(property "Value" "4.7u"
 			(at 123.19 226.695 90)
 			(effects
 				(font
@@ -17160,7 +17160,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 127 220.0148 0)
 			(effects
 				(font
@@ -17187,7 +17187,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C437557"
 			(at 123.19 220.98 0)
 			(effects
 				(font
@@ -17356,7 +17356,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 63.5 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17382,8 +17382,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 63.5 59.69 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 64.4652 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17400,7 +17400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -17409,7 +17409,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C415535"
 			(at 63.5 59.69 0)
 			(effects
 				(font
@@ -17554,7 +17554,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C12484"
 			(at 73.66 231.14 0)
 			(effects
 				(font
@@ -17766,7 +17766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ZCustomFootprints:Standard IO Holes"
 			(at 177.8 34.29 0)
 			(effects
 				(font
@@ -17895,7 +17895,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 102.87 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17904,7 +17904,7 @@
 		(dnp no)
 		(uuid "5281b16c-97e6-425d-849e-90317f621c15")
 		(property "Reference" "C7"
-			(at 106.045 57.785 0)
+			(at 105.918 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17913,7 +17913,7 @@
 			)
 		)
 		(property "Value" "2.2u"
-			(at 106.045 60.325 0)
+			(at 105.918 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17921,8 +17921,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 102.87 59.69 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 103.8352 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17939,7 +17939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 102.87 59.69 0)
 			(effects
 				(font
@@ -17948,7 +17948,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C415535"
 			(at 102.87 59.69 0)
 			(effects
 				(font
@@ -18140,7 +18140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_7.3x7.3_H3.5"
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -18167,7 +18167,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C136201"
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -18540,7 +18540,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2897"
 			(at 38.1 233.68 0)
 			(effects
 				(font
@@ -18949,7 +18949,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2897"
 			(at 58.42 212.09 0)
 			(effects
 				(font
@@ -19370,7 +19370,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C976032"
 			(at 130.81 212.09 0)
 			(effects
 				(font
@@ -19455,7 +19455,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.22u"
+		(property "Value" "220n"
 			(at 151.13 214.6299 0)
 			(effects
 				(font
@@ -19464,7 +19464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 148.2852 217.17 0)
 			(effects
 				(font
@@ -19491,7 +19491,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C161277"
 			(at 147.32 213.36 0)
 			(effects
 				(font
@@ -19569,7 +19569,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C701346"
 			(at 198.12 124.46 0)
 			(effects
 				(font
@@ -19968,7 +19968,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ZCustomFootprints:Standard IO Holes"
 			(at 44.45 35.56 0)
 			(effects
 				(font
@@ -20344,7 +20344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Vertical"
+		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Horizontal_TabDown"
 			(at 77.47 57.15 0)
 			(effects
 				(font
@@ -20371,7 +20371,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "n/a"
 			(at 77.47 57.15 0)
 			(effects
 				(font
@@ -20594,7 +20594,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C12484"
 			(at 73.66 212.09 0)
 			(effects
 				(font
@@ -21003,7 +21003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 111.76 24.4348 0)
 			(effects
 				(font
@@ -21030,7 +21030,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C97946"
 			(at 107.95 25.4 0)
 			(effects
 				(font
@@ -21131,7 +21131,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 167.64 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21147,7 +21147,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "2.2u"
 			(at 171.45 95.25 90)
 			(effects
 				(font
@@ -21155,8 +21155,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 167.64 90.17 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 163.83 91.1352 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21173,7 +21173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 167.64 90.17 0)
 			(effects
 				(font
@@ -21182,7 +21182,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C415535"
 			(at 167.64 90.17 0)
 			(effects
 				(font
@@ -21449,7 +21449,7 @@
 		(dnp no)
 		(uuid "aea51e7c-5249-4887-8d43-317738e54166")
 		(property "Reference" "C5"
-			(at 90.805 89.535 90)
+			(at 90.424 88.392 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21457,8 +21457,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 92.075 91.44 90)
+		(property "Value" "100n"
+			(at 91.694 90.297 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21466,7 +21466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 90.17 93.0148 0)
 			(effects
 				(font
@@ -21493,7 +21493,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C97946"
 			(at 86.36 93.98 0)
 			(effects
 				(font
@@ -21651,7 +21651,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C29454"
 			(at 62.23 168.91 0)
 			(effects
 				(font
@@ -21806,7 +21806,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2897"
 			(at 59.69 231.14 0)
 			(effects
 				(font
@@ -22165,7 +22165,7 @@
 		(dnp no)
 		(uuid "c2614709-63b6-4da8-ba24-6fcfcf2dc247")
 		(property "Reference" "C6"
-			(at 90.805 57.785 0)
+			(at 90.17 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22174,7 +22174,7 @@
 			)
 		)
 		(property "Value" "220u"
-			(at 90.17 60.325 0)
+			(at 90.17 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22209,7 +22209,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "n/a"
 			(at 97.79 59.69 0)
 			(effects
 				(font
@@ -22957,7 +22957,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C84681"
 			(at 82.55 111.76 0)
 			(effects
 				(font
@@ -23051,7 +23051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 72.6948 45.72 0)
 			(effects
 				(font
@@ -23078,7 +23078,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C440198"
 			(at 73.66 41.91 0)
 			(effects
 				(font
@@ -23858,7 +23858,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 85.725 82.55 90)
 			(effects
 				(font
@@ -23867,7 +23867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 87.63 85.3948 0)
 			(effects
 				(font
@@ -23894,7 +23894,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C97946"
 			(at 83.82 86.36 0)
 			(effects
 				(font
@@ -24037,7 +24037,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C2897"
 			(at 60.96 248.92 0)
 			(effects
 				(font
