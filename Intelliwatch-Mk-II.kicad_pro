@@ -56,6 +56,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.1,
+          "via_gap": 0.2,
+          "width": 0.1
         }
       ],
       "drc_exclusions": [],
@@ -178,7 +183,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.1
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -210,6 +216,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -451,25 +461,25 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.6,
-        "diff_pair_gap": 0.4,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.15,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
+        "track_width": 0.15,
+        "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
       },
       {
         "bus_width": 12,
-        "clearance": 0.75,
-        "diff_pair_gap": 0.25,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -478,8 +488,8 @@
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.6,
+        "track_width": 0.2,
+        "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 16
       }
