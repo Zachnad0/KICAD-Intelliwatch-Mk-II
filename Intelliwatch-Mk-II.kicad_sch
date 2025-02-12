@@ -20473,7 +20473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Horizontal_TabDown"
+		(property "Footprint" "PCM_Package_TO_SOT_THT_AKL:TO-220-3_Vertical"
 			(at 77.47 57.15 0)
 			(effects
 				(font

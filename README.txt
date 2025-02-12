@@ -10,7 +10,7 @@ Internet Connection Required:
 
 Functions & Software Modes:
 	Toggle time 7-seg disp. by displaying no digits (mode, A/B key)
-	"off-mode" of LCD display (just a mode, makes LCD LED pin switch by p-MOS)
+	[X] replaced by switch - "off-mode" of LCD display (just a mode, makes LCD LED pin switch by p-MOS)
 	QMC5883L Compass Mode shows current heading (mode, A/B keys change inclination temporarily, but that is not saved)
 	ADC voltmeter/osc-scope (mode)
 	(?? SD-card reading must be used) Cat Picture Mode cycle through pics on SD card (mode, A/B change pic)
